@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CDAA17C22AFEA44D00C6375D /* Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDAA17C12AFEA44D00C6375D /* Button.swift */; };
+		CDAA17C62AFEAD2500C6375D /* ApiTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDAA17C52AFEAD2500C6375D /* ApiTest.swift */; };
+		CDAA17C82AFEC51A00C6375D /* MapTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDAA17C72AFEC51A00C6375D /* MapTests.swift */; };
+		CDAA17CA2AFED2BD00C6375D /* FilterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDAA17C92AFED2BD00C6375D /* FilterTests.swift */; };
+		CDAA17CF2AFED33500C6375D /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDAA17CE2AFED33500C6375D /* Constants.swift */; };
 		CDCE1E0F2AFC2DCA00FBECE5 /* YapeFoodApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCE1E0E2AFC2DCA00FBECE5 /* YapeFoodApp.swift */; };
 		CDCE1E112AFC2DCA00FBECE5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCE1E102AFC2DCA00FBECE5 /* ContentView.swift */; };
 		CDCE1E132AFC2DCC00FBECE5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDCE1E122AFC2DCC00FBECE5 /* Assets.xcassets */; };
@@ -14,6 +19,15 @@
 		CDCE1E202AFC2DCC00FBECE5 /* YapeFoodTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCE1E1F2AFC2DCC00FBECE5 /* YapeFoodTests.swift */; };
 		CDCE1E2A2AFC2DCC00FBECE5 /* YapeFoodUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCE1E292AFC2DCC00FBECE5 /* YapeFoodUITests.swift */; };
 		CDCE1E2C2AFC2DCC00FBECE5 /* YapeFoodUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCE1E2B2AFC2DCC00FBECE5 /* YapeFoodUITestsLaunchTests.swift */; };
+		CDCE1E3C2AFC3A1E00FBECE5 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCE1E3B2AFC3A1E00FBECE5 /* TabBarView.swift */; };
+		CDCE1E3E2AFC3A4500FBECE5 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCE1E3D2AFC3A4500FBECE5 /* HomeView.swift */; };
+		CDCE1E402AFC3A4B00FBECE5 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCE1E3F2AFC3A4B00FBECE5 /* MapView.swift */; };
+		CDCE1E422AFC3D9500FBECE5 /* RecipeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCE1E412AFC3D9500FBECE5 /* RecipeModel.swift */; };
+		CDCE1E452AFC465700FBECE5 /* Api.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCE1E442AFC465700FBECE5 /* Api.swift */; };
+		CDCE1E472AFC473500FBECE5 /* ApiErrors.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCE1E462AFC473500FBECE5 /* ApiErrors.swift */; };
+		CDCE1E4B2AFC4D5600FBECE5 /* HomeVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCE1E4A2AFC4D5600FBECE5 /* HomeVM.swift */; };
+		CDCE1E502AFD80AB00FBECE5 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCE1E4F2AFD80AB00FBECE5 /* CardView.swift */; };
+		CDCE1E522AFD97E500FBECE5 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCE1E512AFD97E500FBECE5 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +48,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CDAA17C12AFEA44D00C6375D /* Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Button.swift; sourceTree = "<group>"; };
+		CDAA17C52AFEAD2500C6375D /* ApiTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiTest.swift; sourceTree = "<group>"; };
+		CDAA17C72AFEC51A00C6375D /* MapTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapTests.swift; sourceTree = "<group>"; };
+		CDAA17C92AFED2BD00C6375D /* FilterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterTests.swift; sourceTree = "<group>"; };
+		CDAA17CE2AFED33500C6375D /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		CDCE1E0B2AFC2DCA00FBECE5 /* YapeFood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YapeFood.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDCE1E0E2AFC2DCA00FBECE5 /* YapeFoodApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YapeFoodApp.swift; sourceTree = "<group>"; };
 		CDCE1E102AFC2DCA00FBECE5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,6 +63,15 @@
 		CDCE1E252AFC2DCC00FBECE5 /* YapeFoodUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YapeFoodUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDCE1E292AFC2DCC00FBECE5 /* YapeFoodUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YapeFoodUITests.swift; sourceTree = "<group>"; };
 		CDCE1E2B2AFC2DCC00FBECE5 /* YapeFoodUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YapeFoodUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CDCE1E3B2AFC3A1E00FBECE5 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
+		CDCE1E3D2AFC3A4500FBECE5 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		CDCE1E3F2AFC3A4B00FBECE5 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		CDCE1E412AFC3D9500FBECE5 /* RecipeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeModel.swift; sourceTree = "<group>"; };
+		CDCE1E442AFC465700FBECE5 /* Api.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api.swift; sourceTree = "<group>"; };
+		CDCE1E462AFC473500FBECE5 /* ApiErrors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiErrors.swift; sourceTree = "<group>"; };
+		CDCE1E4A2AFC4D5600FBECE5 /* HomeVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVM.swift; sourceTree = "<group>"; };
+		CDCE1E4F2AFD80AB00FBECE5 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		CDCE1E512AFD97E500FBECE5 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +99,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CDAA17C42AFEAD1000C6375D /* ApiTest */ = {
+			isa = PBXGroup;
+			children = (
+				CDAA17C52AFEAD2500C6375D /* ApiTest.swift */,
+			);
+			path = ApiTest;
+			sourceTree = "<group>";
+		};
+		CDAA17CB2AFED30400C6375D /* Map */ = {
+			isa = PBXGroup;
+			children = (
+				CDAA17C72AFEC51A00C6375D /* MapTests.swift */,
+			);
+			path = Map;
+			sourceTree = "<group>";
+		};
+		CDAA17CC2AFED30D00C6375D /* Filter */ = {
+			isa = PBXGroup;
+			children = (
+				CDAA17C92AFED2BD00C6375D /* FilterTests.swift */,
+			);
+			path = Filter;
+			sourceTree = "<group>";
+		};
+		CDAA17CD2AFED32600C6375D /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				CDAA17CE2AFED33500C6375D /* Constants.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
 		CDCE1E022AFC2DCA00FBECE5 = {
 			isa = PBXGroup;
 			children = (
@@ -94,9 +154,8 @@
 		CDCE1E0D2AFC2DCA00FBECE5 /* YapeFood */ = {
 			isa = PBXGroup;
 			children = (
-				CDCE1E0E2AFC2DCA00FBECE5 /* YapeFoodApp.swift */,
-				CDCE1E102AFC2DCA00FBECE5 /* ContentView.swift */,
-				CDCE1E122AFC2DCC00FBECE5 /* Assets.xcassets */,
+				CDCE1E492AFC4D3700FBECE5 /* App */,
+				CDCE1E482AFC4CFE00FBECE5 /* Core */,
 				CDCE1E142AFC2DCC00FBECE5 /* Preview Content */,
 			);
 			path = YapeFood;
@@ -113,6 +172,9 @@
 		CDCE1E1E2AFC2DCC00FBECE5 /* YapeFoodTests */ = {
 			isa = PBXGroup;
 			children = (
+				CDAA17C42AFEAD1000C6375D /* ApiTest */,
+				CDAA17CC2AFED30D00C6375D /* Filter */,
+				CDAA17CB2AFED30400C6375D /* Map */,
 				CDCE1E1F2AFC2DCC00FBECE5 /* YapeFoodTests.swift */,
 			);
 			path = YapeFoodTests;
@@ -125,6 +187,74 @@
 				CDCE1E2B2AFC2DCC00FBECE5 /* YapeFoodUITestsLaunchTests.swift */,
 			);
 			path = YapeFoodUITests;
+			sourceTree = "<group>";
+		};
+		CDCE1E382AFC395E00FBECE5 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				CDCE1E3D2AFC3A4500FBECE5 /* HomeView.swift */,
+				CDCE1E3F2AFC3A4B00FBECE5 /* MapView.swift */,
+				CDCE1E512AFD97E500FBECE5 /* DetailView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		CDCE1E392AFC396400FBECE5 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				CDCE1E4A2AFC4D5600FBECE5 /* HomeVM.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		CDCE1E3A2AFC398500FBECE5 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				CDCE1E412AFC3D9500FBECE5 /* RecipeModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		CDCE1E432AFC464B00FBECE5 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				CDCE1E442AFC465700FBECE5 /* Api.swift */,
+				CDCE1E462AFC473500FBECE5 /* ApiErrors.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		CDCE1E482AFC4CFE00FBECE5 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				CDCE1E432AFC464B00FBECE5 /* Services */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		CDCE1E492AFC4D3700FBECE5 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				CDCE1E4E2AFD809800FBECE5 /* Components */,
+				CDCE1E3A2AFC398500FBECE5 /* Models */,
+				CDCE1E382AFC395E00FBECE5 /* Views */,
+				CDCE1E392AFC396400FBECE5 /* ViewModels */,
+				CDAA17CD2AFED32600C6375D /* Utils */,
+				CDCE1E122AFC2DCC00FBECE5 /* Assets.xcassets */,
+				CDCE1E102AFC2DCA00FBECE5 /* ContentView.swift */,
+				CDCE1E0E2AFC2DCA00FBECE5 /* YapeFoodApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		CDCE1E4E2AFD809800FBECE5 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				CDCE1E3B2AFC3A1E00FBECE5 /* TabBarView.swift */,
+				CDCE1E4F2AFD80AB00FBECE5 /* CardView.swift */,
+				CDAA17C12AFEA44D00C6375D /* Button.swift */,
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -258,7 +388,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				CDCE1E112AFC2DCA00FBECE5 /* ContentView.swift in Sources */,
+				CDCE1E522AFD97E500FBECE5 /* DetailView.swift in Sources */,
+				CDCE1E472AFC473500FBECE5 /* ApiErrors.swift in Sources */,
+				CDCE1E3E2AFC3A4500FBECE5 /* HomeView.swift in Sources */,
+				CDCE1E4B2AFC4D5600FBECE5 /* HomeVM.swift in Sources */,
+				CDCE1E402AFC3A4B00FBECE5 /* MapView.swift in Sources */,
+				CDCE1E422AFC3D9500FBECE5 /* RecipeModel.swift in Sources */,
+				CDAA17CF2AFED33500C6375D /* Constants.swift in Sources */,
 				CDCE1E0F2AFC2DCA00FBECE5 /* YapeFoodApp.swift in Sources */,
+				CDCE1E452AFC465700FBECE5 /* Api.swift in Sources */,
+				CDCE1E502AFD80AB00FBECE5 /* CardView.swift in Sources */,
+				CDAA17C22AFEA44D00C6375D /* Button.swift in Sources */,
+				CDCE1E3C2AFC3A1E00FBECE5 /* TabBarView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,7 +407,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CDAA17C62AFEAD2500C6375D /* ApiTest.swift in Sources */,
+				CDAA17CA2AFED2BD00C6375D /* FilterTests.swift in Sources */,
 				CDCE1E202AFC2DCC00FBECE5 /* YapeFoodTests.swift in Sources */,
+				CDAA17C82AFEC51A00C6375D /* MapTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

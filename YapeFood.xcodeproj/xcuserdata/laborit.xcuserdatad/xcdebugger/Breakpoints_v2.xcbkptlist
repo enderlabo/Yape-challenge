@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7BDBDC76-2175-4E08-8907-7706ECFDBBBC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "401100DB-6D87-49B0-A155-E7B7A3B0E516"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YapeFood/Core/Services/Api.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchRecipes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "401100DB-6D87-49B0-A155-E7B7A3B0E516 - 1c9e1360074da81f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; Swift.Array&lt;YapeFood.RecipeResponse&gt;"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "401100DB-6D87-49B0-A155-E7B7A3B0E516 - 1c9e1360074da81f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; Swift.Array&lt;YapeFood.RecipeResponse&gt;"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "401100DB-6D87-49B0-A155-E7B7A3B0E516 - 1c9e1360074da83c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; Swift.Array&lt;YapeFood.RecipeResponse&gt;"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "401100DB-6D87-49B0-A155-E7B7A3B0E516 - 1c9e1360074da83c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; Swift.Array&lt;YapeFood.RecipeResponse&gt;"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "103955C2-C723-451B-B643-166AD920D2B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YapeFood/Core/Services/Api.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "fetchRecipes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "103955C2-C723-451B-B643-166AD920D2B0 - 1c9e1360074da8fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; Swift.Array&lt;YapeFood.RecipeResponse&gt;"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "103955C2-C723-451B-B643-166AD920D2B0 - 1c9e1360074da8fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; Swift.Array&lt;YapeFood.RecipeResponse&gt;"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "103955C2-C723-451B-B643-166AD920D2B0 - 1c9e1360074da8fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; Swift.Array&lt;YapeFood.RecipeResponse&gt;"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "103955C2-C723-451B-B643-166AD920D2B0 - cdfcec914097032e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; ()"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "103955C2-C723-451B-B643-166AD920D2B0 - cdfcec914097032e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; ()"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "103955C2-C723-451B-B643-166AD920D2B0 - 1c9e1360074da81f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; Swift.Array&lt;YapeFood.RecipeResponse&gt;"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "103955C2-C723-451B-B643-166AD920D2B0 - 1c9e1360074da81f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; Swift.Array&lt;YapeFood.RecipeResponse&gt;"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "103955C2-C723-451B-B643-166AD920D2B0 - 1c9e1360074da81f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; Swift.Array&lt;YapeFood.RecipeResponse&gt;"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1AE0A68-2330-41A6-858E-9CBF219924AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YapeFood/Core/Services/Api.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetchRecipes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C1AE0A68-2330-41A6-858E-9CBF219924AC - 1c9e1360074da83c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; Swift.Array&lt;YapeFood.RecipeResponse&gt;"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "C1AE0A68-2330-41A6-858E-9CBF219924AC - cdfcec91409703ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; ()"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "C1AE0A68-2330-41A6-858E-9CBF219924AC - 1c9e1360074da85d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; Swift.Array&lt;YapeFood.RecipeResponse&gt;"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "C1AE0A68-2330-41A6-858E-9CBF219924AC - 1c9e1360074da85d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; Swift.Array&lt;YapeFood.RecipeResponse&gt;"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8C8836D-C56F-4307-A6F5-8F366F2DD330"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YapeFood/Core/Services/Api.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "fetchRecipes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B8C8836D-C56F-4307-A6F5-8F366F2DD330 - 390034e75222fc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; ()"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "B8C8836D-C56F-4307-A6F5-8F366F2DD330 - fc556b0e23913837"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; ()"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "B8C8836D-C56F-4307-A6F5-8F366F2DD330 - 826ab7655f44f07a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; Swift.Array&lt;YapeFood.RecipeResponse&gt;"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "B8C8836D-C56F-4307-A6F5-8F366F2DD330 - 5059e55091f060a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for YapeFood.RecipesDataService.fetchRecipes() async throws -&gt; Swift.Array&lt;YapeFood.RecipeResponse&gt;"
+                  moduleName = "YapeFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laborit/Developer/YapeFood/YapeFood/Core/Services/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
