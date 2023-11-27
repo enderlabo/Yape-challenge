@@ -37,7 +37,7 @@ struct CardView: View {
                     .frame(maxWidth: .infinity, maxHeight: .infinity)
                     
             }
-            .frame(width: StaticTexts.Numbers.int160, height: StaticTexts.Numbers.int216, alignment: .top)
+            .frame(width: StaticTexts.Numbers.int150, height: StaticTexts.Numbers.int150, alignment: .top)
             .background(LinearGradient(gradient: Gradient(colors: [Color(.black).opacity(0.5)]), startPoint: .top, endPoint: .bottom))
             .clipShape(RoundedRectangle(cornerRadius: StaticTexts.Numbers.int20, style: .continuous))
             .shadow(color: .black.opacity(0.7), radius: StaticTexts.Numbers.int5)

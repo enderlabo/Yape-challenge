@@ -12,7 +12,7 @@ enum StaticTexts {
     static let homeTabName = "Home"
     static let mapButtonTitle = "Show location"
     static let homeHeaderTitle = "Pizza Recipes"
-    static let homeSearchBarPlaceHolder = "Searc your favorite Pizza"
+    static let homeSearchBarPlaceHolder = "Search your favorite Pizza"
     static let titleMarkMap = "Pizza Here"
     
     
@@ -24,15 +24,16 @@ enum StaticTexts {
     }
     
     enum Numbers {
-        static let int0:CGFloat = 0
-        static let int5:CGFloat = 5
-        static let int10:CGFloat = 10
-        static let int20:CGFloat = 20
-        static let int30:CGFloat = 30
+        static let int0: CGFloat = 0
+        static let int5: CGFloat = 5
+        static let int10: CGFloat = 10
+        static let int20: CGFloat = 20
+        static let int30: CGFloat = 30
 
-        static let int50:CGFloat = 50
-        static let int100:CGFloat = 100
-        static let int136:CGFloat = 136
+        static let int50: CGFloat = 50
+        static let int100: CGFloat = 100
+        static let int136: CGFloat = 136
+        static let int150: CGFloat = 150
         static let int160: CGFloat = 160
         static let int216: CGFloat = 216
         static let int300: CGFloat = 300

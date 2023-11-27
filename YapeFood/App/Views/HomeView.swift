@@ -20,23 +20,23 @@ struct HomeView: View {
     var body: some View {
         NavigationStack {
             NavigationView {
-                ScrollView {
-                    LazyVGrid(columns: [GridItem(.adaptive(minimum: StaticTexts.Numbers.int160), spacing: StaticTexts.Numbers.int30)], spacing: StaticTexts.Numbers.int30) {
-                        ForEach(filteredRecipes) { recipe in
-                            NavigationLink(destination: DetailView(
-                                image: recipe.image,
-                                description: recipe.summary,
-                                name: recipe.title, 
-                                latitude: recipe.latitude,
-                                longitude: recipe.longitude
-                            )) {
-                                    CardView(name: recipe.title,
-                                             image: recipe.image)
-                                }
+                    ScrollView {
+                        LazyVGrid(columns: [GridItem(.adaptive(minimum: StaticTexts.Numbers.int150), spacing: StaticTexts.Numbers.int30)], spacing: StaticTexts.Numbers.int30) {
+                            ForEach(filteredRecipes) { recipe in
+                                NavigationLink(destination: DetailView(
+                                    image: recipe.image,
+                                    description: recipe.summary,
+                                    name: recipe.title,
+                                    latitude: recipe.latitude,
+                                    longitude: recipe.longitude
+                                )) {
+                                        CardView(name: recipe.title,
+                                                 image: recipe.image)
+                                    }
+                            }
                         }
+                        .padding(.top)
                     }
-                    .padding(.top)
-                }
                 .background(LinearGradient(gradient: Gradient(colors: [.white, .purple]), startPoint: .topLeading, endPoint: .bottomTrailing))
             }
             .padding(.horizontal)
